@@ -1,30 +1,26 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This website was created using [Arcgis](https://www.arcgis.com/products/arcgis-online/).
 
-{Provide a description the map software that you wrote. Describe how to use your software.  Describe the source of the data that you used.}
+Is a map that you can select a location, select a type of store you want to see and then see the store locations.
+The information is retrieved from Arcgis API (http://geocode-api.arcgis.com/arcgis/rest/services/World/GeocodeServer)
 
-{Describe your purpose for writing this software.}
+The purpose of this project is show some capabilities of Arcgis API.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](http://youtube.com)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+Web - Vanilla Javascript
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Arcgis Mapping APIs](https://developers.arcgis.com/documentation/mapping-apis-and-services/visualization/point-line-and-polygon-styles/)
+* [Arcgis Developers](https://developers.arcgis.com/documentation/mapping-apis-and-services/tutorials/)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Improve selection styles.
+* Improve the performance of the website.
+* Improve the UI of the website.
+* Improve the functionality of the website.
