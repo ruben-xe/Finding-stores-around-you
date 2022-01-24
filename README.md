@@ -8,7 +8,7 @@ The information is retrieved from Arcgis API (http://geocode-api.arcgis.com/arcg
 The purpose of this project is show some capabilities of Arcgis API.
 
 
-[Live Demo](https://goo.gl/maps/XG4rT6v6h7R3L9Lo7)
+[Live Demo](https://ruben-xe.github.io/Finding-stores-around-you/)
 
 
 [Software Demo Video](https://youtu.be/17kpcYrs6TQ)
